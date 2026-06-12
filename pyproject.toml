@@ -1,4 +1,5 @@
 [project]
+
 name = "evm-utils"
 version = "0.1.0"
 description = "CLI toolkit for EVM developers"
